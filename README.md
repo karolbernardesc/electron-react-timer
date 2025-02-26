@@ -3,7 +3,6 @@
 
 ## Tecnologias Utilizadas:
 
--  **Electron.js** – Para criar aplicativos desktop com tecnologias web.
--  **React.js** – Interface reativa e moderna.
--  **Styled Components** – Design customizável e elegante.
+-  **Electron.js**
+-  **React.js** 
 -  **Electron Builder** – Empacotamento e criação do `.exe`.
