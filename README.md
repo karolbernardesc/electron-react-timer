@@ -7,5 +7,3 @@
 -  **React.js** – Interface reativa e moderna.
 -  **Styled Components** – Design customizável e elegante.
 -  **Electron Builder** – Empacotamento e criação do `.exe`.
-
-## 📥 Instalação e Uso
